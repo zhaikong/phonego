@@ -28,3 +28,5 @@ build-helper/*
 # The release key belongs to whoever publishes the app, never to the repo.
 android-app/keystore.properties
 android-app/*.jks
+config.bat
+node_modules
